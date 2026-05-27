@@ -24,5 +24,4 @@
  https://github.com/asadahimeka/pixiv-viewer-app
 
 - **IllustFerry** 
-
 https://github.com/ZZCYUN/IllustFerry
