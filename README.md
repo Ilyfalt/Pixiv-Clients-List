@@ -25,3 +25,6 @@
 
 - **IllustFerry** 
 https://github.com/ZZCYUN/IllustFerry
+
+- **PixShaft** 
+https://github.com/CeuiLiSA/Pixiv-Shaft
